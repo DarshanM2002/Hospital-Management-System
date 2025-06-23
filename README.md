@@ -46,29 +46,14 @@ HospitalManagementSystem/
 ├── README.md
 └── LICENSE
 
-🧑‍💻 How to Run
+## How to Run
 Clone the repository
-
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/HospitalManagementSystem.git
 cd HospitalManagementSystem
 Set up MySQL database
 
 Import the hospital_db.sql file into your MySQL server.
-
 Configure JDBC
-
 Update DB credentials in the database/DBConnection.java file.
-
 Run the project
-
 Compile and run the Java files via your IDE or terminal.
-
-✅ Prerequisites
-Java JDK 8 or above
-
-MySQL Server
-
-IDE like IntelliJ or NetBeans (optional
