@@ -47,8 +47,6 @@ HospitalManagementSystem/
 └── LICENSE
 
 
-
-
 ## 🧑‍💻 How to Run
 
 Clone the repository
