@@ -46,7 +46,8 @@ HospitalManagementSystem/
 ├── README.md
 └── LICENSE
 
-## How to Run
+## 🧑‍💻 How to Run
+
 Clone the repository
 git clone https://github.com/yourusername/HospitalManagementSystem.git
 cd HospitalManagementSystem
