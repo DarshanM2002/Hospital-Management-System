@@ -1,8 +1,8 @@
-# 🏥 Hospital Management System
+#  Hospital Management System
 
 A comprehensive **Hospital Management System** built using **Java (Swing & AWT)** and **MySQL**, designed to streamline hospital operations and improve efficiency across departments.
 
-## 🚀 Features
+##  Features
 
 - 👤 **Patient Registration** – Add, update, and manage patient records.
 - 🩺 **Doctor Management** – Maintain doctor profiles and assign duties.
@@ -12,14 +12,14 @@ A comprehensive **Hospital Management System** built using **Java (Swing & AWT)*
 - 🔗 **JDBC Integration** – Efficient data communication with MySQL database.
 - ⚙️ **Multithreading & Exception Handling** – Optimized performance and reliability.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Java Swing & AWT** – UI development
 - **MySQL** – Backend database
 - **JDBC** – Java Database Connectivity
 - **NetBeans / IntelliJ** – IDE (optional)
 
-## 📸 Screenshots
+##  Screenshots
 
 ![Screenshot 2025-06-23 122622](https://github.com/user-attachments/assets/666f9d69-a836-4501-ac54-9a125376f70b)
 ![Screenshot 2025-06-23 122649](https://github.com/user-attachments/assets/ad8a4819-4548-4518-90c9-72854152b415)
@@ -46,7 +46,7 @@ HospitalManagementSystem/
 ├── README.md
 └── LICENSE
 
-🧑‍💻 How to Run
+ How to Run
 Follow these steps to run the Hospital Management System locally:
 
 1. **Clone the repository**
