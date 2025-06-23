@@ -46,13 +46,14 @@ HospitalManagementSystem/
 ├── README.md
 └── LICENSE
 
+🧑‍💻 How to Run
+Follow these steps to run the Hospital Management System locally:
 
-## 🧑‍💻 How to Run
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/HospitalManagementSystem.git
+   cd HospitalManagementSystem
 
-Clone the repository
-git clone https://github.com/yourusername/HospitalManagementSystem.git
-cd HospitalManagementSystem
-Set up MySQL database
 
 Import the hospital_db.sql file into your MySQL server.
 Configure JDBC
