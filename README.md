@@ -26,6 +26,9 @@ A comprehensive **Hospital Management System** built using **Java (Swing & AWT)*
 ![Screenshot 2025-06-23 122711](https://github.com/user-attachments/assets/0d39ea23-b8c3-451c-a428-2a463f93ea68)
 ![Screenshot 2025-06-23 122735](https://github.com/user-attachments/assets/c61641aa-cd95-4aa8-a0dc-9c345d1ec99a)
 ![Screenshot 2025-06-23 122803](https://github.com/user-attachments/assets/aad02f6a-10f4-409b-937c-5c30d960b6d7)
+![Screenshot 2025-06-23 123415](https://github.com/user-attachments/assets/0670822a-157e-4f22-bbfb-bfaa241b05f2)
+![Screenshot 2025-06-23 123450](https://github.com/user-attachments/assets/fa231b76-4e29-4a2d-a9a3-ac4fc7211e94)
+
 
 
 ## 📁 Project Structure
